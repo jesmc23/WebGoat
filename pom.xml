@@ -112,7 +112,7 @@
     </ciManagement>
 
     <properties>
-        <!-- Use UTF-8 Encoding try-->
+        <!-- Use UTF-8 Encoding nueva rama-->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.source>11</maven.compiler.source>
